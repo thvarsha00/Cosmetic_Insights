@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard analyzing product data across **116 brands** and **1,472 products** in the skincare and cosmetics space, built to uncover trends in pricing, category distribution, and skin-type suitability.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.jpeg)
 
 ## Overview
 
